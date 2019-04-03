@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A312A</color>
+    <color name="colorPrimaryDark">#2F1D1A</color>
+    <color name="colorAccent">#00000000</color>
+    <color name="color_Phrases">#16AFCA</color>
+    <color name="color_colors">#8800A0</color>
+    <color name="color_number">#FD8E09</color>
+    <color name="color_family_members">#379237</color>
+    <color name="tan_background">#FFF7DA</color>
+</resources>
